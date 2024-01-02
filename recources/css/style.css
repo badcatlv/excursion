@@ -8,7 +8,7 @@ body {
 
 .header--main {
     font-weight: normal;
-    font-size: 50px;
+    font-size: 50px; 
     color: white;
 }
 
@@ -19,7 +19,9 @@ body {
 }
 
 .header--subheader {
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
 }
 /*LINKS*/
 
